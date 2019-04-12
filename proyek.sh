@@ -62,6 +62,5 @@ banner
 echo -e ""
 data
 python text.py
-echo -e ""
-rm -f log.in
+rm -f log.ini
 
